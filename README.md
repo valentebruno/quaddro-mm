@@ -5,4 +5,5 @@ Fontes das matérias escritas para o MacMagazine
 
 ## Aprendendo Swift - 1# Brincando no playground
 Link da Matéria
-Arquivo: AprendendoSwift.playground
+
+Arquivo: /AprendendoSwift/AprendendoSwift-parte1.playground
