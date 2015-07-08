@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F58D7799-F082-47EC-9EC8-A53DF6398760</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Desafio1-MediaEscolar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECC1820804224E0D4D6EC5CAFF73AFDC8920362B</key>
+		<string>https://github.com/quaddrobr/quaddro-mm.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AprendendoSwift/Desafios/Desafio1-MediaEscolar.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECC1820804224E0D4D6EC5CAFF73AFDC8920362B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/quaddrobr/quaddro-mm.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECC1820804224E0D4D6EC5CAFF73AFDC8920362B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECC1820804224E0D4D6EC5CAFF73AFDC8920362B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>quaddro-mm</string>
+		</dict>
+	</array>
+</dict>
+</plist>
