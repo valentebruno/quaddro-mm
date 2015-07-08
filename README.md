@@ -2,9 +2,8 @@
 Fontes das matérias escritas para o MacMagazine
 
 ##Swift Bootcamp
-![Logo Bootcamp](quaddro.com.br/newsletter/git/bootcamp.jpg "Swift Bootcamp")
 
-Quer criar mais de 150 aplicativos? Conheça a maior formação iOS do Brasil:
+####Quer criar mais de 150 aplicativos? Conheça a maior formação iOS do Brasil:
 [swift.quaddro.com.br](http://swift.quaddro.com.br/)
 
 # Matérias
